@@ -13,7 +13,8 @@ Modeller:
 -Yapay Sinir Ağı
 
 	
-Proje İçeriği
+Proje İçeriği;
+
 •	Veri Seti: Fabrikadan elde edilen sipariş miktarları ile ilgili veriler içermektedir. Veriler marka, kategori ve sipariş miktarını kapsamaktadır.
 
 •	Ön İşleme: Verilerin temizlenmesi ve analiz için hazırlanması.
