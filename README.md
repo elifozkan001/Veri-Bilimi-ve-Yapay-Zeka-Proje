@@ -1,10 +1,15 @@
 Fabrika Sipariş Tahminleme Projesi
 Bu projede, bir fabrikanın 3 farklı markaya ve 4 farklı kategoriye göre sipariş miktarlarını kullanarak gelecekteki siparişlerini tahmin etmek için çeşitli makine öğrenimi modelleri geliştirilmiştir.
-Modeller
+Modeller:
+
 -Karar Ağacı
+
 -Random Forest
+
 -Lojistik Regresyon
--K-Means Kümeleme
+
+-K-Means
+
 -Yapay Sinir Ağı
 
 	
